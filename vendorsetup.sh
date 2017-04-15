@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo aosp_manta-userdebug
+add_lunch_combo nitrogen_manta-userdebug
